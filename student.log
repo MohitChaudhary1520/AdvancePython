@@ -1,0 +1,9 @@
+2026-06-11 18:38:58,828 - INFO - Application started 
+2026-06-11 18:38:58,828 - INFO - Student Logged In: mohit chaudhary
+2026-06-11 18:38:58,828 - ERROR - calculation error
+Traceback (most recent call last):
+  File "/Users/mohitchaudhary/Desktop/Python.x/Advancpython/loggging.py", line 81, in <module>
+    result = 10/0
+             ~~^~
+ZeroDivisionError: division by zero
+2026-06-11 18:38:58,829 - INFO - Application closed
